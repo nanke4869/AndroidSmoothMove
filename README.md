@@ -1,5 +1,5 @@
 # AndroidSmoothMove
-# 服务器从MySQL获取经纬度传给Android studio在高德地图上画轨迹
+# 服务器从MySQL获取经纬度传给Android studio在高德地图上画轨迹——客户端
 
 # 一、高德API官方demo学习
 平滑移动demo：https://github.com/amap-demo/android-smooth-move

@@ -1,0 +1,2 @@
+# AndroidSmoothMove
+服务器从MySQL获取经纬度传给Android studio在高德地图上画轨迹

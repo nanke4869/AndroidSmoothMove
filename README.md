@@ -6,10 +6,16 @@
 
 # 二、在demo基础上添加
 ## 服务器将从数据库中提取的经纬度传给Android客户端
+[服务器端代码](https://github.com/nanke4869/HttpTrace)
+
+
 • 用json传给android
 • 使用http方法
 
 ## 客户端部分
+[客户端代码](https://github.com/nanke4869/AndroidSmoothMove)
+
+
 • avtivity_point.xml文件设有两个按钮
   • GETPOINT为获取服务器传来的json数据并解析成double型，为生成地图做准备
   • TRANS为跳转到绘制轨迹的地图界面按钮
